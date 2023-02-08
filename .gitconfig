@@ -1,3 +1,5 @@
 [user]
 	name = vinaykotturi
 	email = vinaykotturi4@gmail.com
+[pull]
+	ff = true

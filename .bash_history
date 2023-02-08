@@ -284,3 +284,158 @@ ls
 ls -lrt
 cat devkey.pub
 vim
+ssh -T git@github.com
+git config --list
+ls
+cd /
+ls -lrt
+cd /home
+ls -lrt
+mkdir test
+ls -lrt
+cd test
+ls -lrt
+git -v
+git status
+git clone https://github.com/sravani1903/Student.git
+git stauts
+git status
+git log
+ls -lrt
+cd Student
+ls -lrt
+git log
+cd /home/
+cd test/
+cd Student/
+ls -lrt
+git status
+git pull
+git config --global pull.ff only
+git pull
+git pull --ff-only
+git config pull.ff true
+git config pull.ff false
+git config pull.ff only
+git pull
+git statsh
+git stash
+git config pull.rebase false
+git config pull.rebase true 
+git pull
+git pull https://github.com/sravani1903/Student.git
+ls -lrt
+git status
+git config pull.ff only
+git config --global pull.ff true
+git push
+git pull
+git push
+git pull
+git log --oneline
+git status
+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
+git pull
+git push
+git pull
+clear
+git push
+git pull
+git uninstall
+git pull https://github.com/sravani1903/Student.git
+git config pull.ff only
+git pull origin <branch> --rebase
+git pull origin <main> --rebase
+git pull
+git pull origin --rebase
+git push
+git pull --no-ff
+git push
+git status
+git log --oneline
+git push
+touch f4
+git add .
+git commit -m"f4"
+git log --oneline
+git push
+git pull
+git log --oneline
+git status
+git push
+git log --oneline
+git pull
+git push
+git pull --no-ff
+git push
+git log --oneline
+ls -lrt
+cd /
+ls -lrt
+cd /home
+ls -lrt
+cd test
+ls -lrt
+cd Student
+ls -lrt
+touch file555
+git status
+git add file555
+git commit -m "created 555 file"
+git status
+git push
+ls -lrt
+git log
+git pull https://github.com/sravani1903/Student.git
+ls -lrt
+git pull https://github.com/sravani1903/Student.git
+git pull https://github.com/sravani1903/Student.git main
+ls -lrt
+cd /
+cd /home
+ls -lrt
+cd test
+ls
+cd Student
+ls -lrt
+git status
+git log
+ls -lrt
+cd /
+ls -lrt
+cd /home
+cd Student
+ls -lrt
+cd test
+cd Student
+ls -lrt
+git pull https://github.com/sravani1903/Student.git
+git push
+git reset -- head
+git pull 
+git add $the_file_under_error
+git status
+ls -lrt
+git commit
+git add $the_file_under_error
+git add .
+git status
+git pull
+git stash save --keep-index
+git stash
+git config pull.rebase false
+git config pull.rebase true
+git config pull.ff only
+git pull
+git push
+git stauts
+git pull
+git stash save --keep-index
+git stash
+git config pull.rebase false
+git config pull.rebase true
+git config pull.ff only
+git pull
+ls -lrt
+git sttash
+git config --list
